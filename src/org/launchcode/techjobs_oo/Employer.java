@@ -7,6 +7,8 @@ public class Employer {
     private static int nextId = 1;
     private String value;
 
+    // Constructors
+
     public Employer() {
         id = nextId;
         nextId++;
